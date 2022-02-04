@@ -3,5 +3,5 @@
 
 # How to build
 ```
-docker build -t dldhk97/python-chrome-kor-docker:0.1 .
+docker build -t dldhk97/python-chrome-kor-docker:3.8_amd64 .
 ```
