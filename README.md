@@ -1,2 +1,4 @@
 # PythonChromeDockerfile
-Python based with google chrome stable dockerfile
+Dockerfile based on Python.
+
+Includes Google chrome stable.
