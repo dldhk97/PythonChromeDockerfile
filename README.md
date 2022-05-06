@@ -7,4 +7,4 @@ docker build -t dldhk97/python-chrome-kor-docker:3.8_amd64 .
 ```
 
 # Dockerhub
-https://hub.docker.com/repository/docker/dldhk97/python-chrome-kor-docker
+https://hub.docker.com/r/dldhk97/python-chrome-kor-docker
